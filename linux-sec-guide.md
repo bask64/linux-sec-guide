@@ -19,7 +19,7 @@
 ### Disclaimer
 ### Who is this for?
 ### Why does this matter?
-### Contributing
+### What will be covered?
 
 ## Basic Security Concepts
 ### Confidentiality
