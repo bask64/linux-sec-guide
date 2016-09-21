@@ -3,7 +3,7 @@
 ## Overview
 
 1. Introduction
-2. Security Concepts
+2. Basic Security Concepts
 3. User Accounts
 4. Authentication
 5. Access Control
@@ -21,7 +21,7 @@
 ### Why does this matter?
 ### Contributing
 
-## Security Concepts
+## Basic Security Concepts
 ### Confidentiality
 #### Encryption
 When implemented correctly, encryption is the most secure method of providing confidentiality. In it's most basic form, an encryption algorithm scrambles the data passed to it in such a way that the output is unreadable and reveals as little as possible about the original input data. There are many ciphers available but the wisest choice is to go with ciphers that have been around the longest and have withstood the test of time. A full technical description of cryptography and all that goes along with it is too big and complex of a subject to cover here. Cryptography is a very fascinating, though dense, subject. I would definitely recommend learning the concepts behind cryptographic algorithms to better understand how to properly choose the best cryptosystem for your needs.
